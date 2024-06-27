@@ -4,6 +4,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
+- 🔭 I’m currently working on **Cegedim company**
+
+- ⚡ **I'm a full stack developer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/achraf-moullablad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/achrafmoullablad" height="30" width="40" /></a>
