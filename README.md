@@ -1,4 +1,4 @@
-## Hi there, I'm Achraf Moullablad 😄 👋
+## Hi there, I'm Achraf Moullablad 👋
 
 <!--
 **achrafmoullablad/achrafmoullablad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
